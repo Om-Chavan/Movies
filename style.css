@@ -1,0 +1,21 @@
+.grid{
+    border: solid;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align:center;
+    align-items: center;
+}
+
+.grid img{
+    border: 10px solid;
+}
+
+b{
+    border:solid;
+}
+
+head{
+    border: red solid;
+}
